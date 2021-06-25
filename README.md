@@ -1,4 +1,4 @@
-### README File for Project Rotary During Covid-19
+### README File for the Project Rotary During Covid-19
 
 #### Directory: alexljanus/ribi-during-covid/SQLite-database-and-other-data-files
 
